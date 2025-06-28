@@ -5,10 +5,10 @@ This is my solution to the [Four card feature section challenge on Frontend Ment
 ## 📸 Screenshots
 
 ### Desktop
-![Desktop Screenshot](/images/desktop-screenshot.png)
+![Desktop Screenshot](/images/Desktop-screenshot.png)
 
 ### Mobile
-![Mobile Screenshot](/images/mobile-screenshot.png)
+![Mobile Screenshot](/images/Mobile-screenshot.png)
 
 ## 🔗 Links
 
